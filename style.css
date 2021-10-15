@@ -1,0 +1,80 @@
+.body_class{
+    background-color: rgb(255, 255, 255);
+}
+.body_class img{
+    width: 100px;
+    height: 100px;
+}
+.body_class h2{
+    color:rgb(104, 230, 202);
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+body{
+    background-color: rgb(137, 242, 250);
+}
+.webcam_section{
+    background-color: rgb(0, 186, 192);
+    margin-top: 50px;
+    padding: 10px;
+    border: 5px solid white;
+    margin-left: 0px;
+}
+.webcam_section label{
+    color: blue;
+    background-color: white;
+    padding: 7px;
+    border-radius: 15px;
+    width: 300px;
+    box-shadow: 3px 3px 18px white;
+    font-family: 'Lobster', cursive;
+    font-size: large;
+
+}
+#webcam , #snapshot{
+    border: 3px solid white;
+    width:300px;
+    height:300px;
+    box-shadow: 3px 3px 18px white;   
+    margin-bottom: 10px;
+    margin: 15px;
+}
+.webcam_section button{
+    padding: 7px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 18px white;
+    margin-top: 5px;
+    color: darkblue;
+    font-family: 'Lobster', cursive;
+    width: 200px;
+    font-size: large;
+
+}
+
+.footer img{
+    width: 80px;
+    height: 80px;
+
+}
+
+.footer h4{
+    background-color: white;
+    height: 90px;
+    margin-top:20px;
+    padding: 7px;
+    border-radius: 30px ;
+    box-shadow: 3px 7px 22px white; 
+    margin-bottom: 100px;
+    
+}
+
+.copyright_footer{
+    position: fixed;
+    width: 100%;
+    background-color: rgb(17, 212, 247);
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color:white;
+    bottom:0;
+   
+}
